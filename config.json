@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6285795586847@s.whatsapp.net", 
+    "ownerName": "Uzui Chan", 
+    "botName": "ASUNA YUUKI",
+    "footer": "© AsunaYuuki | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/BpuUbEx8niML0pmEqkbp8L",
+    "yootube": "https://www.youtube.com/channel/UCmUIWp6ZCkBWNhMrXLQ7cLg",
+     
+    "QrisAllPay": "https://i.ibb.co/1zY0y5c/c50cc1327dcda1c45450b55cf3620d52.jpg",
+    "textBarisDonate1": "Dana : 0887433094409",
+    "textBarisDonate2": "Ovo : 0887433094409",
+    "textBarisDonate3": "Gopay : 0887433094409",
+    "textBarisDonate4": "Pulsa : 085795586847",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "Github",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://www.youtube.com/channel/UCmUIWp6ZCkBWNhMrXLQ7cLg",
+    "ButtonMenuLink2": "GAK AD",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Asuna",
+        "author": "Uzui"
+    }
+}
